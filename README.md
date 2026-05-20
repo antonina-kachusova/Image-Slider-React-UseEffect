@@ -62,7 +62,7 @@ Inside the `Slider` component, another state value stores the current horizontal
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-image-slider.git
+git clone https://github.com/antonina-kachusova/Image-Slider-React-UseEffect.git
 cd react-image-slider
 ```
 
