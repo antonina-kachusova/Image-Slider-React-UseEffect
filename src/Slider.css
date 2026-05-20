@@ -1,0 +1,32 @@
+ /* .slider {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    margin: 50px auto;
+    border: 2px solid #c0c0c0;
+} */
+
+.slider {
+  width: 120px;
+  height: 120px;
+  position: relative;
+  margin: 28px auto 0;
+  border: 2px solid #c0c0c0;
+  overflow: hidden;
+}
+
+.slider .line {
+    width: 480px;
+    height: 120px;
+    position: absolute;
+    transition: all ease 1s;
+}
+
+.slider .line img {
+    display: block;
+    width: 120px;
+    float: left;
+} 
+
+
+
