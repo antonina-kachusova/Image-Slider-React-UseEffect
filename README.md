@@ -1,4 +1,6 @@
 # React Image Slider
+## Live Demo
+[View Live Site](https://image-slider-react-use-effect.vercel.app/)
 
 A small React project that displays an automatic image slider. The slider moves to the next image every 2 seconds and can be shown or hidden with a button.
 
